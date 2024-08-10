@@ -1,0 +1,8 @@
+1) Insert PersonID, PersonName, PersonContact, PersonMail, PersonAddress
+2) PersonID will be generate Automatically
+3) Update Above Data...get input of the Person id from user and Update
+4) Delete Above Data...get input of the Person id from user and Delete
+5) Search Data:  Get option of search which column wise user want to search/get all data from Collection
+6) Check Duplicate Data(over Email ID) while insert and update
+7) All the exception Should Be handled With proper Message in java console and program should not stop running
+8) Validation : Mobile number 10 digits Number , Email id Should be in proper format , Name Should contain a-z A-z only
