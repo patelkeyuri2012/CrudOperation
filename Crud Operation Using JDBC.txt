@@ -6,3 +6,4 @@
 6) Check Duplicate Data(over Email ID) while insert and update
 7) All the exception Should Be handled With proper Message in java console and program should not stop running
 8) Validation : Mobile number 10 digits Number , Email id Should be in proper format , Name Should contain a-z A-z only
+9) ALL THE DATA SHOULD BE STORED AND RETRIVE FROM DATABASE 
