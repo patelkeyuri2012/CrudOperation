@@ -1,9 +1,6 @@
 # CrudOperation | Java Collection class and JDBC
 - CREATE, READ, UPDATE, DELETE
-  - Post : Creation of a file
-  - GET : Reading of the file
-  - PUT : Updating the file
-  - DELETE : deleting a file
+  - POST : Creation of a file, GET : Reading of the file, PUT : Updating the file, DELETE : deleting a file
 
 - Download this zip file
 - Import project in eclipse,
