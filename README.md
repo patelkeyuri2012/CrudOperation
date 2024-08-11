@@ -20,7 +20,7 @@
 
 - For JDBC Crud operations,
   - Create database in your server,
-    - Database name : jdbc
+    - Database name : `jdbc`
   - Right click on main class
   - Run as,
     - Java Application
