@@ -14,12 +14,14 @@
   - Finish
   
 - For Collection class Crud operations,
+  - Right click on main class
   - Run as,
     - Java Application
 
-- For Collection class Crud operations,
+- For JDBC Crud operations,
   - Create database in your server,
     - Database name : jdbc
+  - Right click on main class
   - Run as,
     - Java Application
       
