@@ -24,4 +24,7 @@
   - Right click on main class
   - Run as,
     - Java Application
+
+- For download Eclipse :
+  - Download the Eclipse desktop IDE packages from following link (https://eclipse.org/downloads/)
       
