@@ -35,8 +35,7 @@
 
 - For download Eclipse :
   - Download the Eclipse desktop IDE packages from following link (https://eclipse.org/downloads/)
+    
 - For download MySql Driver :
-  - Download the zip file of Connector/J from following link
-    - (https://downloads.mysql.com/archives/c-j/) (if you have JDK < v8.0)
-    - (https://downloads.mysql.com/archives/c-j/) (if you have JDK > v8.0)
+  - Download the zip file of Connector/J according to your JDK version from following link (https://downloads.mysql.com/archives/c-j/)
       
