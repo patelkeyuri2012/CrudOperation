@@ -18,24 +18,4 @@
   - Run as,
     - Java Application
 
-- For JDBC Crud operations,
-  - Steps to establish the JDBC with jdk,
-    - Step 1 – Import the Packages
-    - Step 2 – Load the drivers using the forName() method 
-    - Step 3 – Register the drivers using DriverManager 
-    - Step 4 – Establish a connection using the Connection class object
-    - Step 5 – Create a statement
-    - Step 6 – Execute the query
-    - Step 7 – Close the connections
-  - Create database in your server,
-    - Database name : `jdbc`
-  - Right click on main class
-  - Run as,
-    - Java Application
 
-- For download Eclipse :
-  - Download the Eclipse desktop IDE packages from following link (https://eclipse.org/downloads/)
-    
-- For download MySql Driver :
-  - Download the zip file of Connector/J according to your JDK version from following link (https://downloads.mysql.com/archives/c-j/)
-      
